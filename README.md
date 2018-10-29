@@ -21,7 +21,7 @@ Note: `config.js`is excluded on GitHub as it contains API Key.<br>
 * Create a baseMaps object of satellite, Grayscale (light), Outdoors, and Comic
 * Define a layer for the plate tectonics
 * Create overlay object for earthquake and plate techtonics
-* Set the default view of map as satellite, earthquakes and tectonic plates layers
+* Set the default view of map as satellite, earthquakes and tectonic plates layers toggled on
 * Add Fault lines data
 * Add the layer control to the map
 * Create Color and Radius Function
