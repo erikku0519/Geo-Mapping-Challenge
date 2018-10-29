@@ -1,9 +1,8 @@
 # Geo-Mapping-Challenge: Visualizing Data with Leaflet
 <br>
 In this challenge, I am visualizing earthquake data provided by the USGB (United States Geological Survey), which is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change.<br>
-
-Required Files<br>
-
+<br>
+Required Files:<br>
 * `index.html`<br>
 * `logic.js`<br>
 * `config.js`<br>
