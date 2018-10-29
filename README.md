@@ -7,7 +7,7 @@ Required Files:<br>
 * logic.js`<br>
 * config.js<br>
 * style.css<br>
-Note: `config.js` is excluded on GitHub as it contains API Key.<br>
+##Note##: `config.js` is excluded on GitHub as it contains API Key.<br>
 
 ## Step 0: Getting the Data<br>
 
