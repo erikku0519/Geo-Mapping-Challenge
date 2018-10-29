@@ -14,7 +14,7 @@ Note: `config.js`is excluded on GitHub as it contains API Key.<br>
 
 * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
-## mport & Visualize the Data<br>
+## Import & Visualize the Data<br>
 
 * Set URL for geojson API & GET request to the usgs_URL
 * Define a function we want to run once for each feature in the features array, Give each feature a popup with earthquake information (magnitude, place, and time), Create a GeoJSON layer containing the features array on the earthquakeData object, Run the onEachFeature function once for each piece of data in the array, CreateMap function with Earthquake layer.
