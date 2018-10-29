@@ -5,7 +5,7 @@ In this challenge, I am visualizing earthquake data provided by the USGB (United
 Required Files:<br>
 * index.html<br>
 * logic.js<br>
-* config.js<br>
+* `config.js`<br>
 * style.css<br>
 Note: `config.js` is excluded on GitHub as it contains API Key.<br>
 
